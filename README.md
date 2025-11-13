@@ -74,8 +74,7 @@ It is designed to help stakeholders track key business metrics, identify sales t
 ---
 
 ## 👨‍💻 Author
-**Suraj Tembe**  
-📧 [Email Placeholder]  
+**Suraj Tembe**   
 💼 [https://www.linkedin.com/in/suraj-tembe-b44236383/]  
 
 ---
